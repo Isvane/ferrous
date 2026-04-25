@@ -13,5 +13,5 @@ Rust represents a fundamental shift in systems programming. I’m diving into th
 ## Progress at a Glance
 
 - Total Exercises: 94
-- Completed: 43
-- Remaining: 51
+- Completed: 46
+- Remaining: 48
